@@ -7,3 +7,7 @@
 // ###
 // ##
 // #
+
+// Triangle pattern
+let pattern = "";
+const maxRows = 4;
