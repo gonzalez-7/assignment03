@@ -9,3 +9,7 @@
 //  # # # #
 // # # # #
 //  # # # #
+
+// pattern
+const size = 8;
+let board = "";
