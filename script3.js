@@ -30,6 +30,8 @@ for (let row = 0; row < size; row++) {
     Add the row to the board, 
     followed by a newline
     */
-   
+
     board += line + "\n";
   }
+
+  console.log(board);
